@@ -1,0 +1,14 @@
+Langchain
+ipykernel
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+arxiv
+wikipedia
+langchain_tavily
+langchain-openai
+langchain
+dotenv
+langgraph-cli[inmem]
